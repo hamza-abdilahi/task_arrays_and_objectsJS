@@ -81,7 +81,7 @@ console.log("I have just bought a " + parrot.age + "-year-old " + parrot.breed +
  * Q6. Ella's favourite food is dandelion, add this information to her object
  */
 
- tortoise.favouritefood= "dandelion"
+ tortoise.favouritefood = "dandelion"
 
  console.log(tortoise);
 
